@@ -1,0 +1,1 @@
+const e={cs:{label:"Čeština",locale:"cs",default:!0},en:{label:"English",locale:"cs"}},t=Object.keys(e).find(l=>e[l].default)||null,c=Object.keys(e);Object.fromEntries(Object.entries(e).map(([l,a])=>[l,a.locale]));export{c as a,t as d,e as l};
