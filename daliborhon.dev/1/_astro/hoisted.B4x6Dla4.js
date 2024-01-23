@@ -1,0 +1,1 @@
+import"./ViewTransitions.astro_astro_type_script_index_0_lang.Sq--PNrF.js";import"./hoisted.SN_EO2Od.js";import"./index.S9RqswRG.js";const o=()=>{const t=document.querySelector("#tocDetails");if(t===null)return;const e=document.querySelector(".toc");t.appendChild(e),e.style.display="block"};o();document.addEventListener("astro:after-swap",()=>{o()});
